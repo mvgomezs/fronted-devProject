@@ -1,2 +1,2 @@
-# fronted-DevProject
-Proecto Yard Sale
+# Fronted-DevProject
+Proyecto Yard Sale
